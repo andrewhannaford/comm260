@@ -13,6 +13,7 @@ img {
 footer {
     margin: 4rem 0rem;
     padding: 2rem 0rem;
-    border-top: 1px solid #ccc;
+    border-top: 30px solid #ccc;
+    border-side: 30px solid #ccc;
     font-size: .8rem;
 }
